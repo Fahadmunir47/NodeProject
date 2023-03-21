@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "productName" : "Fresh Avocados",
+        "image": "🥑",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 🥑",
+        "price": "6.50",
+        "organic": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque asperiores porro non quas at maxime minima, quae vel nisi earum deleniti quam atque ratione accusamus ut, nobis magni corrupti velit culpa nulla itaque, illum assumenda. Sunt incidunt sapiente soluta nam obcaecati voluptas totam at cum, a hic explicabo aut repudiandae eaque ex veniam quis magnam?"
+    },
+        {
+        "id": 1,
+        "productName" : "Goat and Sheep Cheese",
+        "image": "🧀",
+        "from": "Portugal",
+        "nutrients": "Vitamin A, Calcium",
+        "quantity": "250g",
+        "price": "5.00",
+        "organic": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque asperiores porro non quas at maxime minima, quae vel nisi earum deleniti quam atque ratione accusamus ut, nobis magni corrupti velit culpa nulla itaque, illum assumenda. Sunt incidunt sapiente soluta nam obcaecati voluptas totam at cum, a hic explicabo aut repudiandae eaque ex veniam quis magnam?"
+    },
+        {
+        "id": 2,
+        "productName" : "Apollo Broccoli",
+        "image": "🥦",
+        "from": "Portugal",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "3 🥦",
+        "price": "5.50",
+        "organic": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque asperiores porro non quas at maxime minima, quae vel nisi earum deleniti quam atque ratione accusamus ut, nobis magni corrupti velit culpa nulla itaque, illum assumenda. Sunt incidunt sapiente soluta nam obcaecati voluptas totam at cum, a hic explicabo aut repudiandae eaque ex veniam quis magnam?"
+    },
+        {
+        "id": 3,
+        "productName" : "Baby Carrots",
+        "image": "🥕",
+        "from": "France",
+        "nutrients": "Vitamin A, Vitamin K",
+        "quantity": "20 🥕",
+        "price": "3.00",
+        "organic": true,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque asperiores porro non quas at maxime minima, quae vel nisi earum deleniti quam atque ratione accusamus ut, nobis magni corrupti velit culpa nulla itaque, illum assumenda. Sunt incidunt sapiente soluta nam obcaecati voluptas totam at cum, a hic explicabo aut repudiandae eaque ex veniam quis magnam?"
+    },
+        {
+        "id": 4,
+        "productName" : "sweet Corncobs",
+        "image": "🌽",
+        "from": "Germany",
+        "nutrients": "Vitamin C, Magnesium",
+        "quantity": "2 🌽",
+        "price": "2.00",
+        "organic": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque asperiores porro non quas at maxime minima, quae vel nisi earum deleniti quam atque ratione accusamus ut, nobis magni corrupti velit culpa nulla itaque, illum assumenda. Sunt incidunt sapiente soluta nam obcaecati voluptas totam at cum, a hic explicabo aut repudiandae eaque ex veniam quis magnam?"
+    }
+]

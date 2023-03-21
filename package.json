@@ -1,0 +1,17 @@
+{
+  "name": "json-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ind.js",
+  "scripts": {
+    "start": "nodemon ind.js"
+  },
+  "author": "fahad munir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
